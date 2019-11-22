@@ -7,3 +7,4 @@ feign:
     enabled: true
 server:
   port: 11013
+from: nizheshiganshaa
