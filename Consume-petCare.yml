@@ -6,5 +6,5 @@ feign:
   hystrix:
     enabled: true
 server:
-  port: 12013
+  port: 11013
 from: ajsdksksk
