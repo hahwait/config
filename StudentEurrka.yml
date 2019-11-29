@@ -1,1 +1,2 @@
-Eurekaport: 10010
+server:
+  port: 10010
